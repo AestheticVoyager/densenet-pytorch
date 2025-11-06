@@ -185,7 +185,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) - Original DenseNet paper
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
 - [CIFAR-100 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
-- [Blog Post](https://aestheticvoyager.github.io/aesvoy/posts/DenseNet/)
+- [Blog Post](https://aestheticvoyager.github.io/aesvoy/posts/densenet/)
 
 ## Troubleshooting
 
@@ -202,5 +202,6 @@ If you encounter any problems:
 1. Check that all dependencies are installed correctly
 2. Ensure you have sufficient GPU memory for your selected batch size
 3. Open an issue on GitHub with details about your problem
+
 
 
