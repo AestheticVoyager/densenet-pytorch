@@ -179,20 +179,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@misc{densenet-cifar100,
-  author = {Your Name},
-  title = {DenseNet CIFAR-100 Implementation},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/your-username/densenet-cifar100}}
-}
-```
 
 ## References
 
@@ -216,4 +202,5 @@ If you encounter any problems:
 1. Check that all dependencies are installed correctly
 2. Ensure you have sufficient GPU memory for your selected batch size
 3. Open an issue on GitHub with details about your problem
+
 
